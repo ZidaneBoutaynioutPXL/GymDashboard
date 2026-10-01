@@ -1,0 +1,207 @@
+{
+  "vegeta": {
+    "source": "https://tenor.com/view/dbl-dragon-ball-z-dragon-ball-vegeta-ultra-majin-gif-2372977326693353936",
+    "download": "https://media.tenor.com/IO6CTlmdCdAAAAPo/dbl-dragon-ball-z.mp4",
+    "duration": 12.7,
+    "dims": [
+      236,
+      498
+    ],
+    "form": "Majin Vegeta",
+    "kind": "Legends ink intro",
+    "src": "/cinematics/finals/vegeta.mp4",
+    "sha256": "772bae0a509416b1d1f5c886c1ac07d58f99dbca34fc7cd40591ef8fda364ab6",
+    "bytes": 1020840,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=33S0W56E76A",
+      "segments": [
+        {
+          "start": 400.15,
+          "rate": 0.885
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  },
+  "broly": {
+    "source": "https://tenor.com/view/broly-broly-z-ultra-dragon-ball-legends-ink-art-gif-8924254076369094817",
+    "download": "https://media.tenor.com/e9lRzLtPyKEAAAPo/broly-broly-z.mp4",
+    "duration": 8.6,
+    "dims": [
+      400,
+      498
+    ],
+    "form": "Legendary Super Saiyan Broly",
+    "kind": "Legends ink intro",
+    "src": "/cinematics/finals/broly.mp4",
+    "sha256": "1203807cede453eaaca3d9b35a7435b31df187ab82c92be208229a15f8f99e1a",
+    "bytes": 866869,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=33S0W56E76A",
+      "segments": [
+        {
+          "start": 109.3,
+          "rate": 0.95
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  },
+  "gohan": {
+    "source": "https://tenor.com/view/gohan-anger-ink-art-gif-4719208870913362119",
+    "download": "https://media.tenor.com/QX3_dvOpyMcAAAPo/gohan-anger.mp4",
+    "duration": 3.8,
+    "dims": [
+      498,
+      284
+    ],
+    "form": "Super Saiyan 2 Gohan",
+    "kind": "Legends ink intro",
+    "src": "/cinematics/finals/gohan.mp4",
+    "sha256": "2ff035bcfe902c1515194a72d05909145714389693105a1bdc7727091524624a",
+    "bytes": 328423,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=33S0W56E76A",
+      "segments": [
+        {
+          "start": 299.2,
+          "rate": 0.88
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  },
+  "frieza": {
+    "source": "https://tenor.com/view/ultragoldenfrieza-ink-art-gif-162787877047920941",
+    "download": "https://media.tenor.com/AkJWtjEuaS0AAAPo/ultragoldenfrieza-ink-art.mp4",
+    "duration": 4.4,
+    "dims": [
+      498,
+      284
+    ],
+    "form": "Golden Frieza",
+    "kind": "Legends ink intro",
+    "src": "/cinematics/finals/frieza.mp4",
+    "sha256": "e7a8cace6544c532d096849ca57e06a66dfe9738b1401d0cbd37b04ddf0e5186",
+    "bytes": 334232,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=33S0W56E76A",
+      "segments": [
+        {
+          "start": 323.25,
+          "rate": 1.05
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  },
+  "cell": {
+    "source": "https://tenor.com/view/ultra-cell-red-cell-cell-perfect-cell-super-perfect-cell-gif-5902137732037891997",
+    "download": "https://media.tenor.com/Ueia_xWMV50AAAPo/ultra-cell-red-cell.mp4",
+    "duration": 4.1,
+    "dims": [
+      374,
+      498
+    ],
+    "form": "Perfect Cell",
+    "kind": "Legends character action",
+    "src": "/cinematics/finals/cell.mp4",
+    "sha256": "9f468d9492cc5ad5c4b8b97eff1736780eebb9984b4690cddee86eb529a7f4b7",
+    "bytes": 400545,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=QBGSkpQGPkw",
+      "segments": [
+        {
+          "start": 51.65,
+          "rate": 0.8
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  },
+  "goku": {
+    "source": "https://tenor.com/view/ultra-ui-goku-ui-goku-dragonball-legends-dbl-gif-5400550401974334109",
+    "download": "https://media.tenor.com/SvKb-i1F8p0AAAPo/ultra-ui-goku-ui-goku.mp4",
+    "duration": 13.3,
+    "dims": [
+      480,
+      264
+    ],
+    "form": "Ultra Instinct Sign Goku",
+    "kind": "Legends ink intro",
+    "src": "/cinematics/finals/goku.mp4",
+    "sha256": "67a2f1ba7ee3a600d31698d93504e56a4c0391d12697bd6dd44f8c0cc6a88a83",
+    "bytes": 482017,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=33S0W56E76A",
+      "segments": [
+        {
+          "start": 264.85,
+          "rate": 1.025
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  },
+  "trunks": {
+    "source": "https://tenor.com/view/future-trunks-sparking-zero-dragon-ball-sword-of-hope-dragonball-gif-13860797135840474821",
+    "download": "https://media.tenor.com/wFtxjrGF9sUAAAPo/future-trunks-sparking-zero.mp4",
+    "duration": 3.7,
+    "dims": [
+      480,
+      270
+    ],
+    "form": "Sword of Hope Trunks",
+    "kind": "Sparking! Zero action",
+    "src": "/cinematics/finals/trunks.mp4",
+    "sha256": "974cdc3f8a64532950214bacc3bd2e0f1cf282b14d66fd663636b006aebecd24",
+    "bytes": 506491,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=k4sng91-TnA",
+      "segments": [
+        {
+          "start": 423.13,
+          "rate": 1.06,
+          "duration": 1.65
+        },
+        {
+          "start": 426.88,
+          "rate": 1.1
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  },
+  "piccolo": {
+    "source": "https://tenor.com/view/orange-piccolo-piccolo-dragon-ball-aura-transformation-gif-3507503112885438274",
+    "download": "https://media.tenor.com/MK0nf2QdB0IAAAPo/orange-piccolo-piccolo.mp4",
+    "duration": 13.6,
+    "dims": [
+      400,
+      498
+    ],
+    "form": "Orange Piccolo",
+    "kind": "Transformation animation",
+    "src": "/cinematics/finals/piccolo.mp4",
+    "sha256": "8d58ee12c406b2d445497dcb2cb18791c2e704f23554d533bb95641a99a86b98",
+    "bytes": 1191077,
+    "audio": {
+      "source": "https://www.youtube.com/watch?v=Dbz8G0swjZ4",
+      "segments": [
+        {
+          "start": 2.05,
+          "rate": 1.7
+        }
+      ],
+      "embedded": true,
+      "description": "Original scene recording, trimmed and retimed to the existing visual edit"
+    }
+  }
+}

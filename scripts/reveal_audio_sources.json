@@ -1,0 +1,10 @@
+{
+  "vegeta": {"recording":"legends","source":"https://www.youtube.com/watch?v=33S0W56E76A","segments":[{"start":400.15,"rate":0.885}]},
+  "broly": {"recording":"legends","source":"https://www.youtube.com/watch?v=33S0W56E76A","segments":[{"start":109.3,"rate":0.95}]},
+  "gohan": {"recording":"legends","source":"https://www.youtube.com/watch?v=33S0W56E76A","segments":[{"start":299.2,"rate":0.88}]},
+  "frieza": {"recording":"legends","source":"https://www.youtube.com/watch?v=33S0W56E76A","segments":[{"start":323.25,"rate":1.05}]},
+  "cell": {"recording":"cell","source":"https://www.youtube.com/watch?v=QBGSkpQGPkw","segments":[{"start":51.65,"rate":0.8}]},
+  "goku": {"recording":"legends","source":"https://www.youtube.com/watch?v=33S0W56E76A","segments":[{"start":264.85,"rate":1.025}]},
+  "trunks": {"recording":"trunks","source":"https://www.youtube.com/watch?v=k4sng91-TnA","segments":[{"start":423.13,"rate":1.06,"duration":1.65},{"start":426.88,"rate":1.1}]},
+  "piccolo": {"recording":"piccolo","source":"https://www.youtube.com/watch?v=Dbz8G0swjZ4","segments":[{"start":2.05,"rate":1.7}]}
+}

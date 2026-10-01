@@ -1,0 +1,618 @@
+{
+  "vegeta": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/446045/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_001_Cue_4.ogg",
+        "vocalSeconds": 0.705,
+        "seconds": 1.8,
+        "sha256": "c66038b6f31a8dcef6a201d1c383a86c45065fa5f6c4b10cac375aeadd5423b4"
+      },
+      "entry-1": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_003_Cue_12.ogg",
+        "vocalSeconds": 1.098,
+        "seconds": 1.8,
+        "sha256": "0f12a34e07c56ed1a6e189accce39b290472a134f33cb6c6397c1a875a42bb4c"
+      },
+      "entry-2": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_005_Cue_10.ogg",
+        "vocalSeconds": 1.18,
+        "seconds": 1.8,
+        "sha256": "312d2de1c505cdbe067df518733f4c4494dce38ea45ee68e14dc038ced93af33"
+      },
+      "rank-0": {
+        "vocal": "Vegeta (SSBE)/Greencard/arts_vc_vegetassgssevo_ex_powerup_001_Cue_0.ogg",
+        "vocalSeconds": 1.691,
+        "seconds": 2.9,
+        "sha256": "fac1bcd58f0c91623f1f2214544c89e47ae965c0073b94eeed6b8bc5f4016da9"
+      },
+      "rank-1": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_001_Cue_4.ogg",
+        "vocalSeconds": 0.705,
+        "seconds": 2.9,
+        "sha256": "3fd0e1d598f862ac7b3cad2c01fd093b2e44af041e6cb12969fe819043326a04"
+      },
+      "rank-2": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_002_Cue_7.ogg",
+        "vocalSeconds": 2.059,
+        "seconds": 2.9,
+        "sha256": "63f58c18370927cd56f331911d7196e309054e3682a78f151fe181dc6f396c61"
+      },
+      "rank-3": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_003_Cue_12.ogg",
+        "vocalSeconds": 1.098,
+        "seconds": 2.9,
+        "sha256": "726fa84616239c9abb3b31d122ff8c71a2523addbd20ebd34289569fc9d86589"
+      },
+      "rank-4": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_004_Cue_8.ogg",
+        "vocalSeconds": 1.333,
+        "seconds": 2.9,
+        "sha256": "d32b7d744ac675446dabfdf38f3e49500298a2ca1db9eb59b8cbd03368054a87"
+      },
+      "rank-5": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_005_Cue_10.ogg",
+        "vocalSeconds": 1.18,
+        "seconds": 2.9,
+        "sha256": "0019aca788e4c884855742f60ea6087c8331c89f628c41156c130a8cbe9b70df"
+      },
+      "final": {
+        "vocal": "Vegeta (SSBE)/Greencard/arts_vc_vegetassgssevo_ex_powerup_001_Cue_0.ogg",
+        "vocalSeconds": 1.691,
+        "seconds": 4.8,
+        "sha256": "c85ec9dcfbf45a9dea80af6daf5645e1463c1e8db18131727ffd6d3303b66635"
+      },
+      "log-0": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_011_Cue_2.ogg",
+        "vocalSeconds": 0.662,
+        "seconds": 1.8,
+        "sha256": "831f0050ea3530a35079007a93af51fe5334d1c5a2d683333beff85da931059f"
+      },
+      "log-1": {
+        "vocal": "Vegeta (SSBE)/Ultimate/arts_vc_vegetassgssevo_ut_rage_012_Cue_9.ogg",
+        "vocalSeconds": 0.59,
+        "seconds": 1.8,
+        "sha256": "95e881521f56cbc1b64989cf76a472ba18ad5cda40fb6291acfa330171ccff65"
+      }
+    }
+  },
+  "broly": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/445968/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Broly DBS (LF)/Battle/cha_vc_brolybfp_370_013_vc_atk_s.ogg",
+        "vocalSeconds": 0.378,
+        "seconds": 1.8,
+        "sha256": "9465ecf2bf646b5b8b5a5df3ddd0961a4fa56d6ceb66e874ccb8fcb928864214"
+      },
+      "entry-1": {
+        "vocal": "Broly DBS (LF)/Battle/cha_vc_brolybfp_370_014_vc_atk_s.ogg",
+        "vocalSeconds": 0.28,
+        "seconds": 1.8,
+        "sha256": "74c8ec7fb74e3389fd51af8fb4b66abe47036295a699ea88f53da7547fa07ab9"
+      },
+      "entry-2": {
+        "vocal": "Broly DBS (LF)/Battle/cha_vc_brolybfp_370_015_vc_atk_s.ogg",
+        "vocalSeconds": 0.278,
+        "seconds": 1.8,
+        "sha256": "ab0cddc93ae4980bc6b346a9d359b10232663f6b6e7799d2def0036dd13e869a"
+      },
+      "rank-0": {
+        "vocal": "Broly DBS (LF)/Battle/cha_vc_brolybfp_370_005_vc_kidame.ogg",
+        "vocalSeconds": 1.26,
+        "seconds": 2.9,
+        "sha256": "fd7843a74a9fc43fd30b3d51174f10615254a3617a06ffca89847a4281adbf5b"
+      },
+      "rank-1": {
+        "vocal": "Broly DBS (LF)/Ultimate/arts_vc_brolybfp_ut_rampage_003_Cue_0.ogg",
+        "vocalSeconds": 1.793,
+        "seconds": 2.9,
+        "sha256": "c7dcdeebaf99acb696425f1f67dd9d8616043271b09de7ef3fcdfecaed6772c0"
+      },
+      "rank-2": {
+        "vocal": "Broly DBS (LF)/Ultimate/arts_vc_brolybfp_ut_rampage_004_Cue_1.ogg",
+        "vocalSeconds": 0.68,
+        "seconds": 2.9,
+        "sha256": "f736073cbcf017dd06334da09580b3a9b23b8396cd4bc7971738fb82e1964a37"
+      },
+      "rank-3": {
+        "vocal": "Broly DBS (LF)/Ultimate/arts_vc_brolybfp_ut_rampage_005_Cue_6.ogg",
+        "vocalSeconds": 0.79,
+        "seconds": 2.9,
+        "sha256": "d9ff1e168f49236cc8c83b3985b22955dec272651b2648fe0423c7ee55a6fe90"
+      },
+      "rank-4": {
+        "vocal": "Broly DBS (LF)/Ultimate/arts_vc_brolybfp_ut_rampage_006_Cue_4.ogg",
+        "vocalSeconds": 1.01,
+        "seconds": 2.9,
+        "sha256": "7a6695a45fab6e17c59e4b6803199bd39846eaa8741ab6c75d336d97cd354077"
+      },
+      "rank-5": {
+        "vocal": "Broly DBS (LF)/Ultimate/arts_vc_brolybfp_ut_rampage_007_Cue_3.ogg",
+        "vocalSeconds": 1.814,
+        "seconds": 2.9,
+        "sha256": "6892095edd61fd7fbb8bc89bda3607ea5b7aa194351b2c297ef7b2d8f0199363"
+      },
+      "final": {
+        "vocal": "Broly DBS (LF)/Battle/cha_vc_brolybfp_370_005_vc_kidame.ogg",
+        "vocalSeconds": 1.26,
+        "seconds": 4.8,
+        "sha256": "715a5965d4736bb8e42abc496c111568a92a9813963cca13e93b24d63b3489e6"
+      },
+      "log-0": {
+        "vocal": "Broly DBS (LF)/Battle/cha_vc_brolybfp_370_016_vc_atk_s.ogg",
+        "vocalSeconds": 0.43,
+        "seconds": 1.8,
+        "sha256": "8dd90c95b2eace0843d79331202f7d3dd3cabd42e5aa43158ffe42661fb91af1"
+      },
+      "log-1": {
+        "vocal": "Broly DBS (LF)/Battle/cha_vc_brolybfp_370_017_vc_atk_s.ogg",
+        "vocalSeconds": 0.524,
+        "seconds": 1.8,
+        "sha256": "fbb29562ae6ca1355192817bd21c09c92a4c0e6d5d78778e599b547239aea4c9"
+      }
+    }
+  },
+  "trunks": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/446039/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_016_vc_atk_s.ogg",
+        "vocalSeconds": 0.404,
+        "seconds": 1.8,
+        "sha256": "e598634ea941f6f89ed84396aa5bd4219445eccb94948dad244a21f0da83c823"
+      },
+      "entry-1": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_017_vc_atk_s.ogg",
+        "vocalSeconds": 0.492,
+        "seconds": 1.8,
+        "sha256": "ab97e9165e17c93db250626c5bd017c59e9b0e6f2c428c0864f9a02435e11246"
+      },
+      "entry-2": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_018_vc_atk_s.ogg",
+        "vocalSeconds": 0.327,
+        "seconds": 1.8,
+        "sha256": "1f502fe0c8e2e8fc4acd30c906c55bdd4ae44605c9cabfa5326916b241644653"
+      },
+      "rank-0": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_006_vc_kidame.ogg",
+        "vocalSeconds": 0.512,
+        "seconds": 2.9,
+        "sha256": "230acc5332b1b65546001a75306abebc78b8bc903134e5d4c6924b1de9e07796"
+      },
+      "rank-1": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_001_vc_hensin.ogg",
+        "vocalSeconds": 0.972,
+        "seconds": 2.9,
+        "sha256": "fc4d44f02eddb0bf492c40d196ffb3a6a73c7ed9691f8b1593fa4002ebafafc9"
+      },
+      "rank-2": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_007_vc_hensin_1.ogg",
+        "vocalSeconds": 0.702,
+        "seconds": 2.9,
+        "sha256": "49e60803b871fd4d3435da0578e4af207bfdd9619463040f02f749d5100aaf77"
+      },
+      "rank-3": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_008_vc_hensin_0.ogg",
+        "vocalSeconds": 1.078,
+        "seconds": 2.9,
+        "sha256": "4c82d55e82d33db98eed49185f1eeea0b422576c2853d7311c68ac38f502d85a"
+      },
+      "rank-4": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_016_vc_atk_s.ogg",
+        "vocalSeconds": 0.404,
+        "seconds": 2.9,
+        "sha256": "85dfce1414e328b49b4df4e9c17abbd7f43ea2107171dc898b63db4ebf4f9b48"
+      },
+      "rank-5": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_017_vc_atk_s.ogg",
+        "vocalSeconds": 0.492,
+        "seconds": 2.9,
+        "sha256": "3006f0b2071f616b8241481da265510129f5a07ac495252e406a9f4aa3be409e"
+      },
+      "final": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_008_vc_hensin_0.ogg",
+        "vocalSeconds": 1.078,
+        "seconds": 4.8,
+        "sha256": "3597699975991351f603a99eb194e90951ea2745c391569951469864abe39850"
+      },
+      "log-0": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_019_vc_atk_s.ogg",
+        "vocalSeconds": 0.523,
+        "seconds": 1.8,
+        "sha256": "69ac0b1544748ec21520343ce4175689e51c1115864bf90d647c0fdf9f32147d"
+      },
+      "log-1": {
+        "vocal": "Trunks Future (SSJ2)/Battle/cha_vc_trunksfuturess2_514_020_vc_atk_s.ogg",
+        "vocalSeconds": 0.582,
+        "seconds": 1.8,
+        "sha256": "4ab65ae9743878c523be56b5cbb9645473f53274825531a275e3e5ecb08c5778"
+      }
+    }
+  },
+  "piccolo": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/446052/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Piccolo Super Hero/Battle/cha_vc_piccoloshap_492_012_vc_atk_s.ogg",
+        "vocalSeconds": 0.195,
+        "seconds": 1.8,
+        "sha256": "5064d6fdacfa934114db7b53edd2452c651cf8de7bb25a78e27ce05f96255588"
+      },
+      "entry-1": {
+        "vocal": "Piccolo Super Hero/Battle/cha_vc_piccoloshap_492_013_vc_atk_s.ogg",
+        "vocalSeconds": 0.203,
+        "seconds": 1.8,
+        "sha256": "2c6cb09fb8b79b0fadd69699197124d4ff9cec7e0a10fa2804a9a739c21a97dd"
+      },
+      "entry-2": {
+        "vocal": "Piccolo Super Hero/Battle/cha_vc_piccoloshap_492_014_vc_atk_s.ogg",
+        "vocalSeconds": 0.235,
+        "seconds": 1.8,
+        "sha256": "26409424a5789eb786fdf40496ebc98d9e5c2cf3617564118f0462cbde542ef5"
+      },
+      "rank-0": {
+        "vocal": "Piccolo Super Hero/Battle/cha_vc_piccoloshap_492_005_vc_kidame.ogg",
+        "vocalSeconds": 0.682,
+        "seconds": 2.9,
+        "sha256": "51296f7fb888608ac32a1add4643ce9fc74a29e0f7251063fcf1d8c117a9ece1"
+      },
+      "rank-1": {
+        "vocal": "Piccolo Super Hero/Ultimate/arts_vc_piccoloshap_ut_makankous_001_Cue_10.ogg",
+        "vocalSeconds": 1.216,
+        "seconds": 2.9,
+        "sha256": "e8590976f98c837641b2f607e3c5e91cb9a5ceaa9897dee0b5ad77be98c9a2c1"
+      },
+      "rank-2": {
+        "vocal": "Piccolo Super Hero/Ultimate/arts_vc_piccoloshap_ut_makankous_002_Cue_9.ogg",
+        "vocalSeconds": 1.175,
+        "seconds": 2.9,
+        "sha256": "85f2613ca93952f5fbd99657e44baa9ded32a1164a94a91b0caafd8eae1ee92d"
+      },
+      "rank-3": {
+        "vocal": "Piccolo Super Hero/Ultimate/arts_vc_piccoloshap_ut_makankous_003_Cue_0.ogg",
+        "vocalSeconds": 1.126,
+        "seconds": 2.9,
+        "sha256": "9e7f568c8a376f016deceb8a9d4e8d8c780e31e29655028444fe8e329366d216"
+      },
+      "rank-4": {
+        "vocal": "Piccolo Super Hero/Ultimate/arts_vc_piccoloshap_ut_makankous_006_Cue_3.ogg",
+        "vocalSeconds": 0.637,
+        "seconds": 2.9,
+        "sha256": "6a88da3f191020bd2a02d01fb7e9b9d58869bc3ad479e3b336b28088c2388f9e"
+      },
+      "rank-5": {
+        "vocal": "Piccolo Super Hero/Ultimate/arts_vc_piccoloshap_ut_makankous_007_Cue_4.ogg",
+        "vocalSeconds": 1.237,
+        "seconds": 2.9,
+        "sha256": "eb24ae5d887622c192f9bafc21100267d43c5a29062d06334beaa23d6eb6e949"
+      },
+      "final": {
+        "vocal": "Piccolo Super Hero/Ultimate/arts_vc_piccoloshap_ut_makankous_009_Cue_6.ogg",
+        "vocalSeconds": 3.128,
+        "seconds": 4.8,
+        "sha256": "00148aab8cb0ac5e0113cd4c85900a848cc9e2cbc131d56a2015d4549f6e98aa"
+      },
+      "log-0": {
+        "vocal": "Piccolo Super Hero/Battle/cha_vc_piccoloshap_492_015_vc_atk_s.ogg",
+        "vocalSeconds": 0.212,
+        "seconds": 1.8,
+        "sha256": "b1f633ab2e1cdb1607f2eb3cf1bc8aa7be98bd178074065c2d16ce66326df498"
+      },
+      "log-1": {
+        "vocal": "Piccolo Super Hero/Battle/cha_vc_piccoloshap_492_016_vc_atk_s.ogg",
+        "vocalSeconds": 0.219,
+        "seconds": 1.8,
+        "sha256": "36b80be6943f99d89ba695cfe9a676960d27baf88c37cd690345084733d0d248"
+      }
+    }
+  },
+  "gohan": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/445951/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Gohan (Ultimate)/Normal Entrance/appear_vc_norm_gohanu_01_a_001_vc_appear.ogg",
+        "vocalSeconds": 1.246,
+        "seconds": 1.8,
+        "sha256": "f46e7207db965c36c14ed29e31e34401658caa6406ddc0877a32c9f4feb7add1"
+      },
+      "entry-1": {
+        "vocal": "Gohan (Ultimate)/Normal Entrance/appear_vc_norm_gohanu_01_a_002_vc_appear.ogg",
+        "vocalSeconds": 1.121,
+        "seconds": 1.8,
+        "sha256": "eab6df024f5a3443e50ca09cd2373a22516cf24665c8b1e33d2fcc0c922bd886"
+      },
+      "entry-2": {
+        "vocal": "Gohan (Ultimate)/Normal Entrance/appear_vc_norm_gohanu_01_a_003_vc_appear.ogg",
+        "vocalSeconds": 0.984,
+        "seconds": 1.8,
+        "sha256": "91024ebda2f6a1909d110f606de1044ba2b09be53937b827f3dcbb87f5570fc4"
+      },
+      "rank-0": {
+        "vocal": "Gohan (Ultimate)/Battle/cha_vc_gohanu_01_003_vc_kidame.ogg",
+        "vocalSeconds": 1.019,
+        "seconds": 2.9,
+        "sha256": "9eed35b9720f8bebe0030e8b9ef534fef86f356d781211befa8debdf7fecf2a8"
+      },
+      "rank-1": {
+        "vocal": "Gohan (Ultimate)/Greencard/arts_vc_gohanultimate_ex_powerup02_001_Cue_0.ogg",
+        "vocalSeconds": 0.627,
+        "seconds": 2.9,
+        "sha256": "0f4c3b69f465c487a10a2e004f55bbdce90c61c720ed5c7babe4a7388c03965d"
+      },
+      "rank-2": {
+        "vocal": "Gohan (Ultimate)/Ultimate/arts_vc_gohanultimate_ut_ultimateattack_01_001_Cue_1.ogg",
+        "vocalSeconds": 0.735,
+        "seconds": 2.9,
+        "sha256": "7a6a14a758bf5aa9bf6bfb03da217c94d20d90b6840e1108f810ba2fde3ec866"
+      },
+      "rank-3": {
+        "vocal": "Gohan (Ultimate)/Ultimate/arts_vc_gohanultimate_ut_ultimateattack_01_002_Cue_2.ogg",
+        "vocalSeconds": 0.613,
+        "seconds": 2.9,
+        "sha256": "dfeca9503515949fc9e6fab1d4f68865aa40652627d7ba9a081883e0e3ccc91b"
+      },
+      "rank-4": {
+        "vocal": "Gohan (Ultimate)/Ultimate/arts_vc_gohanultimate_ut_ultimateattack_01_003_Cue_0.ogg",
+        "vocalSeconds": 0.785,
+        "seconds": 2.9,
+        "sha256": "9b46c94a797f6328c2add26ac2bd9961b5c7ee19c440f500035242337aedb2ee"
+      },
+      "rank-5": {
+        "vocal": "Gohan (Ultimate)/Normal Entrance/appear_vc_norm_gohanu_01_a_001_vc_appear.ogg",
+        "vocalSeconds": 1.246,
+        "seconds": 2.9,
+        "sha256": "2f0a35c982abf874c95d521f024ce932d66dfeb5232b0c6d61152b0928f98989"
+      },
+      "final": {
+        "vocal": "Gohan (Ultimate)/Transformation/cha_vc_gohanu_01_026_vc_henshin.ogg",
+        "vocalSeconds": 1.176,
+        "seconds": 4.8,
+        "sha256": "6b1588cab6829345c4b28da4362fa2fb3c1cd6aafa0ac9eb3174f75af5f6b496"
+      },
+      "log-0": {
+        "vocal": "Gohan (Ultimate)/Normal Entrance/appear_vc_norm_gohanu_01_c_001_vc_appear.ogg",
+        "vocalSeconds": 1.088,
+        "seconds": 1.8,
+        "sha256": "d4c363917c0f1db29cc5e0d20f2da42aa864eba29c4091ec14f86c4c2d486bc9"
+      },
+      "log-1": {
+        "vocal": "Gohan (Ultimate)/Normal Entrance/appear_vc_norm_gohanu_01_c_002_vc_appear.ogg",
+        "vocalSeconds": 1.067,
+        "seconds": 1.8,
+        "sha256": "d0bea5f727231933961b4b7e766f242ce0b4a476404a2755067c9f0b86211983"
+      }
+    }
+  },
+  "frieza": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/443695/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Frieza (Golden)/Battle/cha_vc_goldenfrieza_218_011_vc_atk_s.ogg",
+        "vocalSeconds": 0.233,
+        "seconds": 1.8,
+        "sha256": "5b6af150cd007421b9ecc166f1df343b73fecd39858a4f08f1161001db801e2e"
+      },
+      "entry-1": {
+        "vocal": "Frieza (Golden)/Battle/cha_vc_goldenfrieza_218_012_vc_atk_s.ogg",
+        "vocalSeconds": 0.193,
+        "seconds": 1.8,
+        "sha256": "9105ceea0ba7269162d16105632579c070dc58ad53bf10ed2745cd5f69cc0e2a"
+      },
+      "entry-2": {
+        "vocal": "Frieza (Golden)/Battle/cha_vc_goldenfrieza_218_013_vc_atk_s.ogg",
+        "vocalSeconds": 0.293,
+        "seconds": 1.8,
+        "sha256": "b30fb92131d8cba5648dfad8af2f56807e72744d49277bc8c9e158dc0c55f5c8"
+      },
+      "rank-0": {
+        "vocal": "Frieza (Golden)/Battle/cha_vc_goldenfrieza_469_005_vc_kidame.ogg",
+        "vocalSeconds": 0.43,
+        "seconds": 2.9,
+        "sha256": "3085518be0841a6f6020da09d1df6d007fce7d1670a759dfc024e21cf382f0fc"
+      },
+      "rank-1": {
+        "vocal": "Frieza (Golden)/Greencard/arts_vc_goldenfrieza_ex_powerup_001_0.ogg",
+        "vocalSeconds": 0.465,
+        "seconds": 2.9,
+        "sha256": "2a2df98543786fbf91ddd33ab67573c947dfcad3e42778a7676d83d184691664"
+      },
+      "rank-2": {
+        "vocal": "Frieza (Golden)/Ultimate/arts_vc_goldenfrieza_ut_ultimateattack_001_0.ogg",
+        "vocalSeconds": 1.564,
+        "seconds": 2.9,
+        "sha256": "9fdf9576a90f956c9fa42553eae55fe97f966c736a6d02ee07a5c75e4eb49717"
+      },
+      "rank-3": {
+        "vocal": "Frieza (Golden)/Ultimate/arts_vc_goldenfrieza_ut_ultimateattack_002_1.ogg",
+        "vocalSeconds": 1.095,
+        "seconds": 2.9,
+        "sha256": "45fb04be576bd360d16a3e8ee4e11d697bad68df57084c26084c2c7b72e45af8"
+      },
+      "rank-4": {
+        "vocal": "Frieza (Golden)/Ultimate/arts_vc_goldenfrieza_ut_ultimateattack_003_2.ogg",
+        "vocalSeconds": 0.742,
+        "seconds": 2.9,
+        "sha256": "5ab5657deea54cce3b1d6a1c794bc586ec014582b9922e345c13889b2b582f03"
+      },
+      "rank-5": {
+        "vocal": "Frieza (Golden)/Battle/cha_vc_goldenfrieza_218_014_vc_atk_s.ogg",
+        "vocalSeconds": 0.463,
+        "seconds": 2.9,
+        "sha256": "7beb8727428d432929b4dc3ffe7d7cc3146d5dffb0dd3ebd53c9052254d48ddd"
+      },
+      "final": {
+        "vocal": "Frieza (Golden)/Greencard/arts_vc_goldenfrieza_ex_powerup_002_1.ogg",
+        "vocalSeconds": 2.214,
+        "seconds": 4.8,
+        "sha256": "c9b2353e772d844ceffad30702d773f67587d10aa8cc4a08c2eb30a6c2190b09"
+      },
+      "log-0": {
+        "vocal": "Frieza (Golden)/Battle/cha_vc_goldenfrieza_218_014_vc_atk_s.ogg",
+        "vocalSeconds": 0.463,
+        "seconds": 1.8,
+        "sha256": "a9a0d5a00fe6977007816fab067e146a1a4873704652c4bdca1ab643e87e5756"
+      },
+      "log-1": {
+        "vocal": "Frieza (Golden)/Battle/cha_vc_goldenfrieza_218_015_vc_atk_s.ogg",
+        "vocalSeconds": 0.236,
+        "seconds": 1.8,
+        "sha256": "42e659c840620b472aeed1e88b2b6f1ca40cb94151edb9662b2aae0ed1d9ac32"
+      }
+    }
+  },
+  "cell": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/443693/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_01_018_vc_atk_s.ogg",
+        "vocalSeconds": 0.189,
+        "seconds": 1.8,
+        "sha256": "1dbccfebaefc61a961814facd2cd713d602ef635058d2fd38aea321de7cd3a9d"
+      },
+      "entry-1": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_01_019_vc_atk_s.ogg",
+        "vocalSeconds": 0.165,
+        "seconds": 1.8,
+        "sha256": "e532ba4633e6f634a838abb071325e465a224a2a0430ec41edc6f0c4b5f82950"
+      },
+      "entry-2": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_01_020_vc_atk_s.ogg",
+        "vocalSeconds": 0.287,
+        "seconds": 1.8,
+        "sha256": "2b463181ace26c770190a5dcd25a716e83f4328f5c8a2985b122e22576d5d18e"
+      },
+      "rank-0": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_01_008_vc_kidame.ogg",
+        "vocalSeconds": 0.521,
+        "seconds": 2.9,
+        "sha256": "6ffe9efa4e90af86bef3334a5a85fcd8581923cd14b3db9f018e15c64a4ca262"
+      },
+      "rank-1": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_345_005_vc_kidame.ogg",
+        "vocalSeconds": 0.521,
+        "seconds": 2.9,
+        "sha256": "61e1d4a90e4c79ef505972c2edd7f8e5989289eda9337c08eeb2ffe6c4d7a992"
+      },
+      "rank-2": {
+        "vocal": "Cell (Perfect)/Ultimate/arts_vc_cell3rd_ut_ultimateattack_001_Cue_0.ogg",
+        "vocalSeconds": 0.682,
+        "seconds": 2.9,
+        "sha256": "6e7b724357522bf751a53dfd12bd08d1ed818d15eec609a6be727bab29908afc"
+      },
+      "rank-3": {
+        "vocal": "Cell (Perfect)/Ultimate/arts_vc_perfectcell_ut_deathsmash_001_Cue_7.ogg",
+        "vocalSeconds": 1.744,
+        "seconds": 2.9,
+        "sha256": "8211c974673f964874a4cb17932253ab5364f6fe56cc51ed6521814f61b631b8"
+      },
+      "rank-4": {
+        "vocal": "Cell (Perfect)/Ultimate/arts_vc_perfectcell_ut_deathsmash_002_Cue_2.ogg",
+        "vocalSeconds": 1.214,
+        "seconds": 2.9,
+        "sha256": "cfd371452d40ae42cae483df6bb40c3ecaf47ce40325ef9f09808174ef2e3209"
+      },
+      "rank-5": {
+        "vocal": "Cell (Perfect)/Ultimate/arts_vc_perfectcell_ut_deathsmash_003_Cue_11.ogg",
+        "vocalSeconds": 0.825,
+        "seconds": 2.9,
+        "sha256": "f1aeb354a65d595d29a61eb7ab8d0bea3653032212fddc7dc0ee655fb4d171e5"
+      },
+      "final": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_345_041_vc_hensin.ogg",
+        "vocalSeconds": 2.348,
+        "seconds": 4.8,
+        "sha256": "b7d534e118aac8e35c46a5d89a67f402f48d51c58a941bad3c7c8b829cc482c8"
+      },
+      "log-0": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_01_021_vc_atk_s.ogg",
+        "vocalSeconds": 0.428,
+        "seconds": 1.8,
+        "sha256": "8a47fd4498e7cc997160a2e25ff7ea16ff4c049081e48bbfb0fcdc805c7c82a2"
+      },
+      "log-1": {
+        "vocal": "Cell (Perfect)/Battle/cha_vc_cell3rd_01_022_vc_atk_s.ogg",
+        "vocalSeconds": 0.183,
+        "seconds": 1.8,
+        "sha256": "49862ee23983b25649580510d56b6a9ab7a8438e3d85a58a145743e6c7aa1a8b"
+      }
+    }
+  },
+  "goku": {
+    "source": "https://sounds.spriters-resource.com/mobile/dragonballlegends/asset/445944/",
+    "clips": {
+      "entry-0": {
+        "vocal": "Goku (MUI)/Battle/cha_vc_gokuui_477_019_vc_atk_s.ogg",
+        "vocalSeconds": 0.243,
+        "seconds": 1.8,
+        "sha256": "1172da41738006337c8101332d7e4de553afe9a1a346a692f3f97796b6fe55e8"
+      },
+      "entry-1": {
+        "vocal": "Goku (MUI)/Battle/cha_vc_gokuui_477_020_vc_atk_s.ogg",
+        "vocalSeconds": 0.311,
+        "seconds": 1.8,
+        "sha256": "b77f317fc1d85fd90f6693a4ca7a7c58001974a36cb69c50927632d926283556"
+      },
+      "entry-2": {
+        "vocal": "Goku (MUI)/Battle/cha_vc_gokuui_477_021_vc_atk_s.ogg",
+        "vocalSeconds": 0.388,
+        "seconds": 1.8,
+        "sha256": "c7549b3a266f2e63ac609f12e9412fc9deeabbaf2019f6cd312c35b7330d2f8d"
+      },
+      "rank-0": {
+        "vocal": "Goku (MUI)/Battle/cha_vc_gokuui_477_016_vc_kidame.ogg",
+        "vocalSeconds": 0.469,
+        "seconds": 2.9,
+        "sha256": "58d3d3e7cabe42a125729bc0444fb2583d626d084ceb140124d7851d822d539d"
+      },
+      "rank-1": {
+        "vocal": "Goku (MUI)/Ultimate/arts_vc_gokuui_ut_masterblow_001_Cue_0.ogg",
+        "vocalSeconds": 1.349,
+        "seconds": 2.9,
+        "sha256": "b8696603d18ce63ab3baffaa65e34bb3a3ff65dd97620e880d8810e0091c36c6"
+      },
+      "rank-2": {
+        "vocal": "Goku (MUI)/Ultimate/arts_vc_gokuui_ut_masterblow_002_Cue_1.ogg",
+        "vocalSeconds": 1.285,
+        "seconds": 2.9,
+        "sha256": "bb77375531901eadefaea1bd4d7469edf773003e270825944846f8e82ea193f5"
+      },
+      "rank-3": {
+        "vocal": "Goku (MUI)/Ultimate/arts_vc_gokuui_ut_masterblow_003_Cue_3.ogg",
+        "vocalSeconds": 0.504,
+        "seconds": 2.9,
+        "sha256": "800649b8d219e0603362e2c9b7a5bd0081b7c1da984ec91beeb10e74f3190d9a"
+      },
+      "rank-4": {
+        "vocal": "Goku (MUI)/Ultimate/arts_vc_gokuui_ut_masterblow_004_Cue_8.ogg",
+        "vocalSeconds": 0.8,
+        "seconds": 2.9,
+        "sha256": "14e61c4f1fe591526431f7247d75df8385d1366b6046aeedc40adac9f44c7cc4"
+      },
+      "rank-5": {
+        "vocal": "Goku (MUI)/Ultimate/arts_vc_gokuui_ut_masterblow_005_Cue_7.ogg",
+        "vocalSeconds": 1.13,
+        "seconds": 2.9,
+        "sha256": "43a192297d603aacbb3d2048c1a3dff97263036eb00ad42761870dca0e08181b"
+      },
+      "final": {
+        "vocal": "Goku (MUI)/Greencard/arts_vc_gokuui_ex_angershout_003_Cue_0.ogg",
+        "vocalSeconds": 1.318,
+        "seconds": 4.8,
+        "sha256": "bfd56e9139cd7be8b97f6d47feae1c92c77ee36aa00a1f81cde569e2cd84bbda"
+      },
+      "log-0": {
+        "vocal": "Goku (MUI)/Battle/cha_vc_gokuui_477_022_vc_atk_s.ogg",
+        "vocalSeconds": 0.243,
+        "seconds": 1.8,
+        "sha256": "19e1a47b44619216db247ae0e5b341a0256ee7ad2bf8b95c8fcdb1326f371057"
+      },
+      "log-1": {
+        "vocal": "Goku (MUI)/Battle/cha_vc_gokuui_477_025_vc_atk_s.ogg",
+        "vocalSeconds": 0.277,
+        "seconds": 1.8,
+        "sha256": "3cab8b9fa6848035e00ca0286c7d76f64465a1433026cb9e1c070d9cab8a76e9"
+      }
+    }
+  }
+}

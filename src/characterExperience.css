@@ -1,0 +1,62 @@
+.character-stage{position:relative;width:100%;height:100%;overflow:hidden;isolation:isolate;background:radial-gradient(ellipse at 50% 50%,color-mix(in srgb,var(--scene-color) 18%,#0a1020),#060914 70%)}
+.character-energy-canvas{position:absolute;inset:0;width:100%;height:100%;z-index:4;pointer-events:none}
+.scene-horizon{position:absolute;inset:72% -30% -50%;border-radius:50%;border-top:1px solid var(--scene-color);background:radial-gradient(ellipse at 50% 0,color-mix(in srgb,var(--scene-color) 22%,transparent),transparent 60%);transform:perspective(300px) rotateX(35deg);opacity:.5}
+.scene-aura{position:absolute;inset:8% 20%;border-radius:50%;background:radial-gradient(ellipse,var(--scene-color),transparent 65%);opacity:.2;filter:blur(24px)}
+.character-stage>.character-art{position:absolute;width:min(90%,510px);left:50%;top:48%;transform:translate(-50%,-50%);background-color:transparent;mask-image:linear-gradient(transparent,#000 12%,#000 68%,transparent 98%)}
+.scene-fighter{z-index:3;filter:drop-shadow(0 0 18px color-mix(in srgb,var(--scene-color) 55%,transparent));transition:transform .65s cubic-bezier(.2,.8,.2,1),opacity .45s,filter .6s}
+.scene-before{z-index:2;opacity:0;transition:opacity .45s,transform .8s;filter:saturate(.4) brightness(.6)}
+.character-stage[data-phase=charge] .scene-before{opacity:1;transform:translate(-50%,-50%) scale(.9)}
+.character-stage[data-phase=charge] .scene-final-fighter{opacity:0;transform:translate(-50%,-50%) scale(.72)}
+.character-stage[data-phase=impact] .scene-final-fighter{opacity:1;transform:translate(-50%,-50%) scale(1.12)}
+.character-stage[data-phase=resolve] .scene-final-fighter,.character-stage[data-phase=finished] .scene-final-fighter{opacity:1;transform:translate(-50%,-50%) scale(1)}
+.scene-echo{z-index:1;opacity:.12;filter:grayscale(1) drop-shadow(0 0 18px var(--scene-color))}
+.character-stage>.echo-left{transform:translate(-72%,-47%) scale(.92)}.character-stage>.echo-right{transform:translate(-28%,-53%) scale(.92)}
+.scene-running .scene-echo{animation:instinct-echo 2s ease-in-out infinite alternate}
+.scene-impact{position:absolute;inset:0;z-index:5;pointer-events:none;background:radial-gradient(ellipse,var(--scene-accent),transparent 70%);opacity:0;transition:opacity .65s}
+.character-stage[data-phase=impact] .scene-impact{opacity:.18}
+.scene-vignette{position:absolute;inset:0;z-index:6;pointer-events:none;background:linear-gradient(#060914aa,transparent 20%,transparent 60%,#060914e8),linear-gradient(90deg,#06091466,transparent 25%,transparent 75%,#06091466)}
+.scene-corners{position:absolute;z-index:7;inset:20px 24px auto;display:flex;justify-content:space-between;gap:12px;font-size:7px;letter-spacing:2px;color:var(--scene-color);opacity:.7}
+.scene-sword[data-phase=impact] .scene-fighter{transform:translate(-46%,-50%) rotate(-6deg) scale(1.13)}
+.scene-eruption[data-phase=impact] .scene-fighter{transform:translate(-50%,-46%) scale(1.22)}
+.scene-dragon[data-phase=impact] .scene-fighter{transform:translate(-50%,-48%) scale(1.25)}
+.scene-beast[data-phase=impact] .scene-fighter{filter:drop-shadow(0 0 28px #fb587d) brightness(1.25)}
+.scene-eclipse[data-phase=charge] .scene-before{filter:brightness(.2) saturate(.4)}
+.scene-destruction[data-phase=impact] .scene-fighter{filter:drop-shadow(0 0 38px #b24cff)}
+.scene-instinct .scene-fighter{filter:drop-shadow(0 0 25px #ceeaffaa)}
+.scene-still *{animation:none!important;transition:none!important}
+.final-form-reveal{height:auto!important;min-height:0;max-height:none;background:#080e19;padding:0}
+.final-form-header{display:flex;justify-content:space-between;gap:12px;padding:27px 58px 20px 22px;font-size:8px;letter-spacing:1.5px;color:#90a5c3}.final-form-header strong{color:#e1ecff}
+.final-stage-wrap{height:390px;position:relative}.final-technique{position:absolute;z-index:8;bottom:15px;left:16px;right:16px;text-align:center;font:600 12px 'Barlow Condensed';letter-spacing:5px;color:#e1eeff;text-shadow:0 0 12px #000}
+.final-timeline{height:2px;background:#27344b}.final-timeline>span{display:block;height:100%;width:0;background:#d8eaff;box-shadow:0 0 12px #b6dfff}.timeline-running>span{animation:scene-progress linear both}
+.final-form-footer{padding:24px;text-align:center}.final-form-footer>.eyebrow{justify-content:center;font-size:8px;letter-spacing:2px;color:#b7cce7}.modal-card .final-form-footer h2{font:900 clamp(34px,5vw,56px)/1 'Barlow Condensed';letter-spacing:.5px;margin:10px 0;color:#edf5ff}.final-form-footer p{font-size:11px;color:#829cb9}.final-form-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:12px;margin-top:22px}.final-form-footer .sound-controls{margin-top:20px}.final-motion-note{font-size:10px!important}
+.lift-entrance{position:fixed;inset:0;z-index:1000;background:#060a13;overflow:auto;display:flex;flex-direction:column;align-items:center;animation:entrance-fade .18s ease-out}
+.entrance-controls{position:absolute;z-index:15;top:24px;left:28px;right:28px;display:flex;justify-content:space-between}.entrance-controls button{background:#10192be6}
+.entrance-stage{position:absolute;inset:0 0 16%;overflow:hidden}.entrance-stage .character-stage{height:100%;min-height:360px}.entrance-stage .character-stage>.character-art{width:min(70vh,620px);top:46%}.entrance-stage .scene-fighter{animation:entrance-fighter 1.8s cubic-bezier(.2,.8,.2,1) both}
+.entrance-name{position:absolute;z-index:0;left:0;right:0;top:28%;text-align:center;font:900 clamp(65px,15vw,200px)/1 'Barlow Condensed';letter-spacing:-3px;text-transform:uppercase;color:#d1e6ff08;-webkit-text-stroke:1px #b6d5ff24;white-space:nowrap;pointer-events:none}
+.entrance-copy{position:relative;z-index:10;margin-top:auto;margin-bottom:7vh;text-align:center;padding:20px;animation:entrance-copy .7s .18s ease both}.entrance-copy .eyebrow{justify-content:center;font-size:9px;letter-spacing:3px;color:#b5ceee}.entrance-copy h2{font:900 clamp(38px,6vw,75px)/1 'Barlow Condensed';text-transform:uppercase;margin:15px 0 24px;color:#edf5ff;letter-spacing:-.5px}.entrance-copy .hero-button{margin:auto}.entrance-progress{position:absolute;bottom:0;left:0;right:0;height:3px;background:#182338}.entrance-progress>span{display:block;height:100%;background:#c7ddff;animation:scene-progress 1.8s linear both}
+@keyframes scene-progress{from{width:0}to{width:100%}}
+.ultra-screen{position:relative;height:clamp(320px,53vh,550px);background:#030406;overflow:hidden;isolation:isolate}
+.ultra-screen video{display:block;width:100%;height:100%;object-fit:contain;background:#030406}
+.ultra-finished video{visibility:hidden}
+.ultra-clip-caption{position:absolute;bottom:0;left:0;right:0;padding:24px 14px 10px;background:linear-gradient(transparent,#000d);font-size:9px;letter-spacing:.4px;text-align:center;color:#e0e7f2;pointer-events:none}
+.ultra-clip-caption span{color:#9facc1}
+.ultra-result{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 42%,color-mix(in srgb,var(--scene-color) 25%,#060914),#060914 75%);animation:ultra-card-reveal .65s cubic-bezier(.2,.8,.2,1) both}
+.ultra-result>.character-art{position:absolute;width:min(85%,440px);top:45%;left:50%;transform:translate(-50%,-50%);background-color:transparent;mask-image:linear-gradient(transparent,#000 8%,#000 75%,transparent);filter:drop-shadow(0 0 24px color-mix(in srgb,var(--scene-color) 35%,transparent))}
+.ultra-rarity{position:absolute;top:3%;left:0;right:0;font:900 clamp(85px,16vw,145px)/1 'Barlow Condensed';font-style:italic;letter-spacing:-6px;color:transparent;-webkit-text-stroke:1px color-mix(in srgb,var(--scene-color) 45%,transparent);opacity:.65;transform:rotate(-7deg)}
+.ultra-result-caption{position:absolute;bottom:6%;left:0;right:0;display:flex;flex-direction:column;gap:8px;text-align:center;text-transform:uppercase;text-shadow:0 2px 15px #000}
+.ultra-result-caption span{font-size:8px;letter-spacing:5px;color:var(--scene-color)}
+.ultra-result-caption strong{font:900 38px/1 'Barlow Condensed';letter-spacing:2px;color:#fff}
+.ultra-play-gate{position:absolute;inset:0;background:#060a14eb;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:18px;padding:30px;text-align:center;color:#dce9ff;font-size:12px}
+.ultra-loading{position:absolute;top:14px;left:14px;padding:9px;background:#060a14bb;font-size:8px;letter-spacing:2px;color:#d9e9ff;pointer-events:none}
+.ultra-loading span{display:block;margin-top:8px;height:1px;background:var(--scene-color);animation:ultra-load 1s ease-in-out infinite alternate}
+.ultra-reveal .final-form-footer{padding:20px 24px}.ultra-reveal .final-form-actions{margin-top:16px}.ultra-reveal .final-form-footer .sound-controls{margin-top:14px}
+@keyframes ultra-card-reveal{from{clip-path:polygon(0 0,0 0,0 100%,0 100%);filter:brightness(2)}to{clip-path:polygon(0 0,100% 0,100% 100%,0 100%);filter:brightness(1)}}
+@keyframes ultra-load{from{transform:scaleX(.1);transform-origin:left}to{transform:scaleX(1);transform-origin:left}}
+@media(max-width:600px){.ultra-screen{height:clamp(280px,48svh,440px)}.ultra-reveal .final-form-footer{padding:18px 14px}.ultra-result>.character-art{width:90%}.ultra-clip-caption{font-size:8px}.ultra-clip-caption span{display:block;margin-top:3px}}
+@media(prefers-reduced-motion:reduce){.ultra-result,.ultra-loading span{animation:none}}
+@keyframes entrance-fade{from{opacity:0}to{opacity:1}}
+@keyframes entrance-fighter{0%{opacity:0;transform:translate(-50%,-43%) scale(.78);filter:brightness(.4)}25%{opacity:1;filter:brightness(1)}70%{transform:translate(-50%,-50%) scale(1.05)}100%{transform:translate(-50%,-50%) scale(1.02)}}
+@keyframes entrance-copy{from{opacity:0;transform:translateY(25px)}to{opacity:1;transform:translateY(0)}}
+@keyframes instinct-echo{from{opacity:.08;translate:-12px 0}to{opacity:.23;translate:12px -10px}}
+@media(max-width:600px){.final-stage-wrap{height:330px}.final-form-header{font-size:7px;letter-spacing:1px;padding-left:16px}.final-form-footer{padding:22px 16px}.final-form-footer .hero-button,.final-form-footer .outlined-button{font-size:10px}.scene-corners{inset:18px 15px auto;font-size:6px}.entrance-controls{top:18px;left:16px;right:16px}.entrance-stage{inset:5% -15% 22%}.entrance-stage .character-stage>.character-art{width:105%;top:49%}.entrance-copy{margin-bottom:7vh;width:100%}.entrance-copy .eyebrow{font-size:7px;letter-spacing:1.8px}.entrance-copy h2{font-size:43px}.entrance-name{top:27%;font-size:78px;letter-spacing:-2px}.final-technique{font-size:10px;letter-spacing:2px}}
+@media(prefers-reduced-motion:reduce){.lift-entrance,.entrance-copy,.entrance-stage .scene-fighter{animation:none}.rank-reveal .scene-running .scene-fighter,.rank-reveal .scene-running .scene-before{transition:transform .65s,opacity .45s,filter .6s!important}.rank-reveal .scene-running .scene-echo{animation:instinct-echo 2s ease-in-out infinite alternate!important}.rank-reveal .timeline-running>span{animation:scene-progress 4.8s linear both!important}}

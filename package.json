@@ -1,0 +1,50 @@
+{
+  "name": "dashboardgym",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "test:migration": "node scripts/migration.mjs",
+    "test:progression": "node scripts/progression.mjs",
+    "test:progression-offline": "node scripts/progression-offline.mjs",
+    "test:characters": "node scripts/characters.mjs",
+    "test:experience": "node scripts/experience.mjs",
+    "test:smoke": "node scripts/smoke.mjs",
+    "test:ranks": "node scripts/ranks.mjs",
+    "test:cinematic": "node scripts/cinematic.mjs",
+    "test:offline": "node scripts/offline.mjs",
+    "android:sync": "tsc -b && vite build --mode android && cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/filesystem": "^8.1.3",
+    "@capacitor/share": "^8.0.2",
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "@fontsource/dm-sans": "^5.3.0",
+    "dexie": "^4.4.6",
+    "dexie-react-hooks": "^4.4.0",
+    "lucide-react": "^1.47.0",
+    "motion": "^13.4.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "recharts": "^3.10.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.2",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "playwright": "^1.63.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vite-plugin-pwa": "^1.3.0"
+  }
+}
